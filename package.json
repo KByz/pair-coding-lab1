@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KByz/pair-coding-lab1#readme",
   "dependencies": {
-    "moment-timezone": "^0.5.41"
+    "moment-timezone": "^0.5.41",
+    "nodemon": "^2.0.21"
   }
 }
